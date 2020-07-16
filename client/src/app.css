@@ -10,3 +10,18 @@ h1 {
   font-weight: 200;
   color: #0ccac4;
 }
+
+.delete-icon {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  color: red;
+  cursor: pointer;
+}
+.edit-icon {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+
+  cursor: pointer;
+}
